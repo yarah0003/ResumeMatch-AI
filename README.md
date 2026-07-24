@@ -8,7 +8,7 @@
 | ---------------- | ------------------------------------ |
 | Full Name        | Yara Hesham                          |
 | Project Name     | ResumeMatch AI                       |
-| GitHub Username  | *[Add your GitHub username]*         |
+| GitHub Username  | yarah0003         |
 | Challenge Batch  | June–July 2026                       |
 | Training Program | Large Language Models (LLMs) Program |
 | Organization     | [**Edrak for Ai**](https://edrak4ai.com/en) |
