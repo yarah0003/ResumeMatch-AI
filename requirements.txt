@@ -1,0 +1,13 @@
+langchain==0.2.16
+langchain-openai==0.1.25
+langchain-community==0.2.16
+langchain-chroma==0.1.4
+chromadb==0.5.3
+pdfplumber==0.11.4
+streamlit==1.38.0
+pydantic==2.8.2
+python-dotenv==1.0.1
+openai==1.51.0
+pyngrok==7.2.1
+pandas==2.2.3
+numpy==1.26.4
