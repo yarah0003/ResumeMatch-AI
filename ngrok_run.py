@@ -1,7 +1,7 @@
 from pyngrok import ngrok, conf
 import subprocess, time, os
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv(override=True)
 
 conf.get_default().auth_token = os.getenv("NGROK_AUTHTOKEN")
 

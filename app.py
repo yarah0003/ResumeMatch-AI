@@ -1,7 +1,7 @@
 import streamlit as st
 import tempfile, os
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv(override=True)
 
 from pipeline.parser import parse_pdf
 from pipeline.orchestrator import analyze_gap
